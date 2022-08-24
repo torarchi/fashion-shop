@@ -1,5 +1,4 @@
-Adoptive for pc and 380 px
-React JS Fashion shop
+
 Material UI ReactJS StyledComponents
 ![image](https://user-images.githubusercontent.com/92136279/169661049-0b6c6f9c-46a1-4718-8c7c-d807b8e13c48.png)
 ![image](https://user-images.githubusercontent.com/92136279/169661058-43b781f7-4acc-48e2-9011-20bd28c6cf4a.png)
